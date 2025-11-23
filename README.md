@@ -1,12 +1,12 @@
 # config
 
-System configuration files for shell environments and prompt customization.
+System configuration files for shell environments and prompt customization. This repository consolidates personalized setups for Fish and Zsh shells, alongside a custom Starship prompt configuration.
 
 ## Features
 
-- Configuration for Fish shell (`config.fish`)
+- Fish shell configuration (`config.fish`)
+- Zsh configuration integrated with Oh My Zsh (`zshrc`)
 - Starship prompt customization (`starship.toml`)
-- Zsh configuration with Oh My Zsh integration (`zshrc`)
 
 ## Tech Stack
 
