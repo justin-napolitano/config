@@ -1,12 +1,27 @@
 ---
-slug: "github-config"
-title: "config"
-repo: "justin-napolitano/config"
-githubUrl: "https://github.com/justin-napolitano/config"
-generatedAt: "2025-11-23T08:44:35.335185Z"
-source: "github-auto"
+slug: github-config
+title: Centralized Fish, Zsh, and Starship Shell Configuration Repository
+repo: justin-napolitano/config
+githubUrl: https://github.com/justin-napolitano/config
+generatedAt: '2025-11-23T08:44:35.335185Z'
+source: github-auto
+summary: >-
+  Technical overview and implementation notes for a repository centralizing Fish, Zsh, and Starship
+  prompt configurations to streamline shell setup.
+tags:
+  - fish-shell
+  - zsh
+  - starship-prompt
+  - shell-config
+seoPrimaryKeyword: shell configuration
+seoSecondaryKeywords:
+  - fish shell
+  - zsh
+  - starship prompt
+  - dotfiles
+  - shell customization
+seoOptimized: true
 ---
-
 
 # config Repository: Technical Overview and Implementation Notes
 
