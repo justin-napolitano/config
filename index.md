@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - dotfiles
   - shell customization
 seoOptimized: true
+topicFamily: devtools
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The post discusses centralized configuration for shell environments including Fish, Zsh, and
+  Starship prompt configurations, which aligns perfectly with the 'devtools' family's focus on shell
+  setup and development environment configuration.
 ---
 
 # config Repository: Technical Overview and Implementation Notes
@@ -68,3 +74,4 @@ Users clone the repository and copy the relevant configuration files to their ho
 ## Summary
 
 This repository is a practical consolidation of shell environment configurations aimed at simplifying management and customization. It leverages standard shell conventions and popular tools, providing a foundation for further enhancements and automation.
+
