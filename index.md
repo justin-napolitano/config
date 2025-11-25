@@ -1,32 +1,37 @@
 ---
 slug: github-config
-title: Centralized Fish, Zsh, and Starship Shell Configuration Repository
+title: Centralized Shell Configuration for Fish and Zsh
 repo: justin-napolitano/config
 githubUrl: https://github.com/justin-napolitano/config
 generatedAt: '2025-11-23T08:44:35.335185Z'
 source: github-auto
 summary: >-
-  Technical overview and implementation notes for a repository centralizing Fish, Zsh, and Starship
-  prompt configurations to streamline shell setup.
+  This repository consolidates Fish and Zsh shell configurations, streamlining
+  environment management and customization.
 tags:
   - fish-shell
   - zsh
   - starship-prompt
   - shell-config
-seoPrimaryKeyword: shell configuration
+  - fish
+  - starship
+seoPrimaryKeyword: shell configuration management
 seoSecondaryKeywords:
-  - fish shell
-  - zsh
-  - starship prompt
-  - dotfiles
-  - shell customization
+  - fish shell setup
+  - zsh configuration
+  - starship prompt customization
+  - oh-my-zsh setup
+  - cross-shell configuration
 seoOptimized: true
 topicFamily: devtools
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The post discusses centralized configuration for shell environments including Fish, Zsh, and
-  Starship prompt configurations, which aligns perfectly with the 'devtools' family's focus on shell
-  setup and development environment configuration.
+  The post discusses centralized configuration for shell environments including
+  Fish, Zsh, and Starship prompt configurations, which aligns perfectly with the
+  'devtools' family's focus on shell setup and development environment
+  configuration.
+kind: project
+id: github-config
 ---
 
 # config Repository: Technical Overview and Implementation Notes
