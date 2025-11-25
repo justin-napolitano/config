@@ -6,9 +6,7 @@ repo: justin-napolitano/config
 githubUrl: https://github.com/justin-napolitano/config
 generatedAt: '2025-11-24T21:34:15.654Z'
 source: github-auto
-summary: >-
-  Consolidated setup for Fish and Zsh shells with custom Starship prompt
-  configuration.
+summary: Consolidated setup for Fish and Zsh shells with custom Starship prompt configuration.
 tags:
   - fish
   - zsh
@@ -22,8 +20,8 @@ seoSecondaryKeywords:
   - oh-my-zsh integration
   - terminal setup
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -97,4 +95,5 @@ config/
 - Expand support for other shells (e.g., Bash)
 - Add backup and sync options for config files
 - Integrate versioning for config changes
+
 
