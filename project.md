@@ -1,19 +1,27 @@
 ---
 slug: github-config
 id: github-config
-title: config
+title: Shell Configuration for Fish and Zsh with Starship
 repo: justin-napolitano/config
 githubUrl: https://github.com/justin-napolitano/config
 generatedAt: '2025-11-24T21:34:15.654Z'
 source: github-auto
 summary: >-
-  System configuration files for shell environments and prompt customization.
-  This repository consolidates personalized setups for Fish and Zsh shells,
-  alongside a custom Starship prompt configuration.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A repository for configuring Fish and Zsh shells, including a custom Starship
+  prompt setup.
+tags:
+  - fish
+  - zsh
+  - starship
+  - shell scripting
+seoPrimaryKeyword: shell configuration files
+seoSecondaryKeywords:
+  - fish shell setup
+  - zsh configuration
+  - starship prompt customization
+  - oh-my-zsh integration
+  - terminal environment setup
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
